@@ -9,10 +9,11 @@ This is a simple Rock Paper Scissors game implemented using HTML, CSS, and JavaS
 
 ## How to Play
 
-1. Open the `index.html` file in your web browser.
-2. Click on the rock, paper, or scissors button to make your move.
-3. The result of the game will be displayed, along with the current score.
-4. To reset the score, click the "Reset Score" button.
+1. Copy `https://shantanukh.github.io/Rock-Paper-Scissor-Game/`.
+2. Paste the url in new tab in your web browse.
+3. Click on the rock, paper, or scissors button to make your move.
+4. The result of the game will be displayed, along with the current score.
+5. To reset the score, click the "Reset Score" button.
 
 
 ## Features
