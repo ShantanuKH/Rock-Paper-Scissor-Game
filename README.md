@@ -15,6 +15,11 @@ This is a simple Rock Paper Scissors game implemented using HTML, CSS, and JavaS
 4. The result of the game will be displayed, along with the current score.
 5. To reset the score, click the "Reset Score" button.
 
+## Screenshots
+
+![Rock-Paper-Scissor-Game (2)](https://github.com/ShantanuKH/Rock-Paper-Scissor-Game/assets/99231251/6b83e278-93b7-4d59-8832-b61745aabe0a)
+![Rock-Paper-Scissor-Game](https://github.com/ShantanuKH/Rock-Paper-Scissor-Game/assets/99231251/12ea311c-afda-4057-a37f-987b1ecad363)
+
 
 ## Features
 
